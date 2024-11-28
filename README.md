@@ -1,1 +1,3 @@
-# GuilhermeDalmolin-Turma02-k6
+# k6-performance-testing
+
+Performance test with Grafana K6
