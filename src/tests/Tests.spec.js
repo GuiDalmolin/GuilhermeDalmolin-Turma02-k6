@@ -8,7 +8,7 @@ export const getContactsDuration = new Trend('get_contacts', true);
 
 export const options = {
   thresholds: {
-    http_req_failed: ['rate<0.01'],
+    http_req_failed: ['rate<0.01'], 
     http_req_duration: ['avg<10000']
   },
   stages: [
